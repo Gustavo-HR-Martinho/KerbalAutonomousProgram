@@ -1,8 +1,0 @@
-T-0: General functions library executed.
-T-0: KAV-S Launch script executed.
-T-0: Flight step updated to Launch.
-T-0: Flight step updated to Ascent.
-T-5.62: Flight step updated to Altitude Hold.
-T-5.62: Altitude hold duration: 60.
-T-65.92: Flight step updated to Descent.
-T-68.14: Flight step updated to Landing.
